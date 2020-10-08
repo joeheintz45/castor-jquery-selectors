@@ -1,0 +1,15 @@
+.redList {
+  background-color: red;
+}
+
+.block {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: skyblue;
+  margin: 10px;
+}
+
+.makeRectangle {
+  width: 200px;
+}
